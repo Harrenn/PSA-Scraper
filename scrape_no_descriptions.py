@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 
 # Replace this URL with the actual URL of the webpage you want to scrape
-url = 'https://psa.gov.ph/classification/psic/group'
+url = 'https://psa.gov.ph/classification/psic/class'
 
 # Send a request to the webpage
 response = requests.get(url)

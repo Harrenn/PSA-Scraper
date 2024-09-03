@@ -1,0 +1,525 @@
+Group Description Title,Group Code
+"Growing of cereals (except rice and corn), leguminous crops and oil seeds",0111
+Growing of paddy rice,0112
+"Growing of corn, except young corn (vegetable)",0113
+Growing of sugarcane including muscovado sugar-making in the farm,0114
+Growing of tobacco,0115
+Growing of fiber crops,0116
+Growing of  leafy and fruit bearing vegetables,0117
+"Growing of  other vegetables, melons, roots and tubers",0118
+Growing of other non-perennial crops,0119
+Growing of banana,0121
+Growing of pineapple,0122
+Growing of citrus fruits,0123
+Growing of mango,0124
+Growing of papaya,0125
+"Growing of coconut, including copra-making, tuba gathering and coco-shell charcoal and coconut sap syrup making in the farm",0126
+Growing of beverage crops,0127
+"Growing of spices, aromatic, drugs and pharmaceutical crops",0128
+Growing of other fruits and perennial crops,0129
+Plant propagation,0130
+Raising of cattle and buffaloes,0141
+Raising of horses and other equines,0142
+Dairy farming,0143
+Raising of sheep and goats,0144
+Hog raising,0145
+"Raising (farming) of chicken (including operation chicken hatcheries), in confined and free-range environment",0146
+Raising of poultry (except chicken),0147
+Egg production,0148
+Raising of other animals,0149
+Operation of irrigation systems through cooperatives and non-cooperatives,0151
+"Planting, transplanting and other related activities",0152
+"Services to establish crops, promote their growth and protect them from pests and diseases",0153
+"Harvesting, threshing, grading, bailing and related services",0154
+Rental of farm machinery with drivers and crew,0155
+Support activities for animal production,0156
+Post-harvest crop activities,0157
+Seed processing for propagation,0158
+"Hunting, trapping and related service activities",0170
+"Growing of timber forest species (e.g. Gmelina, Eucalyptus, etc.), planting, replanting, transplanting, thinning and conserving of forest and timber tracts",0211
+Operation of forest tree nurseries,0212
+Logging,0220
+Gathering of non-wood forest products,0230
+Support services to forestry,0240
+Marine fishing,0311
+Freshwater fishing,0312
+Support service activities incidental to fishing,0313
+"Operation of freshwater fish pond, fish pens, cage and hatcheries",0321
+"Operation of marine or sea water fish  tanks, pens, cage and hatcheries",0322
+Prawn culture in brackish water,0323
+"Culture of mollusks, bivalves and other crustaceans (except prawn culture)",0324
+Pearl culture and pearl shell gathering,0325
+Seaweeds farming and gathering,0326
+Other aquaculture activities,0329
+Mining of hard coal,0510
+Mining of lignite,0520
+Extraction of crude petroleum,0610
+Extraction of natural gas,0620
+Mining of iron ores,0710
+Mining of uranium and thorium ores,0721
+Mining of precious metals,0722
+Mining of other non-ferrous metal ores,0729
+"Quarrying of stone, sand and clay",0810
+Mining of chemical and fertilizer minerals,0891
+Extraction of peat,0892
+Extraction of salt,0893
+"Other mining and quarrying, n.e.c.",0899
+Support activities for petroleum and gas extraction,0910
+Support activities for other mining and quarrying,0990
+Slaughtering and meat packing,1011
+"Production, processing and preserving of meat and meat products",1012
+"Processing and preserving of fish, crustaceans and mollusks",1020
+Processing and preserving of fruits and vegetables,1030
+Manufacture of virgin coconut oil,1041
+"Production of crude vegetable oil, cake and meals, other than virgin coconut oil (see class 1041)",1044
+Manufacture of refined coconut and other vegetable oil (including corn oil) and margarine,1045
+Manufacture of fish oil and other marine animal oils,1046
+"Manufacture of unprepared animal feeds from vegetable, animal oils and fats",1047
+"Manufacture of vegetable and animal oil and fats, n.e.c.",1049
+Processing of fresh milk and cream,1051
+"Manufacture of powdered milk (except for infants) and condensed or evaporated milk (filled, combined or reconstituted)",1052
+Manufacture of infantsNULL powdered milk,1053
+"Manufacture of butter, cheese and curd",1054
+"Manufacture of ice cream and sherbet, ice drop, ice candy and other flavored ices",1055
+Manufacture of milk-based infantsNULL and dietetic foods,1056
+Manufacture of yoghurt,1057
+Manufacture of whey,1058
+"Manufacture of dairy products, n.e.c.",1059
+Rice/corn milling,1061
+Manufacture of grain and vegetable mill products except rice and corn,1062
+Manufacture of starches and starch products,1063
+Manufacture of bakery products,1071
+Manufacture of sugar,1072
+"Manufacture of cocoa, chocolate and sugar confectionery",1073
+"Manufacture of macaroni, noodles, couscous and similar farinaceous products",1074
+Manufactured of prepared meals and dishes,1075
+Manufacture of food supplements from herbs and other plants,1076
+Coffee roasting and processing,1077
+"Manufacturing of nata de coco and native delicacies  or ""kakanin"" e.g., bibingka, puto, suman, kalamay, binagol, moron and other similar products",1078
+"Manufacture of other food products, n.e.c.",1079
+Manufacture of prepared animal feeds,1080
+"Distilling, rectifying and blending of spirits",1101
+Manufacture of wines,1102
+Manufacture of malt liquors and malt,1103
+Manufacture of soft drinks,1104
+Manufacture of drinking water and mineral water,1105
+Manufacture of sports and energy drink,1106
+"Manufacture of other beverages, n.e.c.",1109
+Manufacture of cigarettes,1201
+Manufacture of cigars,1202
+"Manufacture of chewing and smoking tobacco, snuff",1203
+Curing and redrying tobacco leaves,1204
+"Tobacco manufacturing, n.e.c.",1209
+Preparation and spinning of textile fibers,1311
+Weaving of textiles,1312
+Finishing of textiles,1313
+Preparation and finishing of textiles (integrated),1314
+Manufacture of knitted and crocheted fabrics,1391
+"Manufacture of made-up textile articles, except wearing apparel",1392
+Manufacture of carpet and rugs,1393
+"Manufacture of cordage, rope, twine and netting",1394
+Manufacture of embroidered fabrics,1395
+"Manufacture of other textiles, n.e.c.",1399
+MenNULLs and boyNULLs garment manufacturing,1411
+WomenNULLs and girlNULLs garment manufacturing,1412
+Ready-made embroidered garments manufacturing,1413
+BabiesNULL Garment Manufacturing,1414
+"Manufacture of wearing apparel, n.e.c",1419
+Custom tailoring,1421
+Custom dressmaking,1422
+Manufacture of knitted and crocheted apparel,1430
+Manufacture of articles of fur,1440
+Tanning and dressing of leather,1511
+Manufacture of products of leather and imitation leather,1512
+Manufacture of leather shoes,1521
+Manufacture of rubber shoes,1522
+Manufacture of plastic shoes,1523
+Manufacture of shoes made of textile materials with applied soles,1524
+Manufacture of wooden footwear and accessories,1525
+"Manufacture of footwear, n.e.c.",1529
+Sawmilling and planing of wood,1610
+"Manufacture of veneer sheets; manufacture of plywood, laminboard, particle board and other panels and board",1621
+"Manufacture of wooden window and door screens, shades and venetian blinds",1622
+Manufacture of other buildersNULL carpentry and joinery; millworking,1623
+Manufacture of wooden containers,1624
+Manufacture of wood carvings,1625
+Manufacture of charcoal outside the forest,1626
+Manufacture of wooden wares,1627
+"Manufacture of  products of bamboo, cane, rattan and the like, and plaiting materials except furniture",1628
+"Manufacture of other products of wood; manufacture of articles of cork and plaiting materials, except furniture, n.e.c.",1629
+"Manufacture of pulp, paper and paperboard",1701
+Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,1702
+Manufacture of other articles of paper and paperboard,1709
+Printing,1811
+Service activities related to printing,1812
+Reproduction of recorded media,1820
+Manufacture of coke oven products,1910
+Manufacture of refined petroleum products,1920
+Manufacture of other fuel products,1990
+Manufacture of basic chemicals,2011
+Manufacture of fertilizers and nitrogen compounds,2012
+Manufacture of plastics and synthetic rubber in primary forms,2013
+Manufacture of pesticides and other agro-chemical products,2021
+"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",2022
+"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",2023
+"Manufacture of other chemical products, n.e.c.",2029
+Manufacture of man-made fibers,2030
+"Manufacture of pharmaceuticals, medicinal chemical and botanical products",2100
+Manufacture of rubber tires and tubes; retreading and rebuilding of rubber tires,2211
+Manufacture of other rubber products,2219
+Manufacture of plastics products,2220
+Manufacture of glass and glass products,2310
+Manufacture of refractory products,2391
+Manufacture of clay building materials,2392
+Manufacture of other porcelain and ceramic products,2393
+Manufacture of cement,2394
+Manufacture of lime and plaster,2395
+"Manufacture of articles of concrete, cement and plaster",2396
+"Cutting, shaping and finishing of stone",2397
+"Manufacture of other non-metallic mineral products, n.e.c.",2399
+Operation of blast furnaces and steel making furnaces,2411
+Operation of steel works and rolling mills,2412
+Gold and other precious metal refining,2421
+"Non-ferrous smelting and refining , except precious metals",2422
+"Non-ferrous rolling, drawing and extrusion mills",2423
+Manufacture of pipe fittings of non-ferrous metals,2424
+"Manufacture of basic precious and other non-ferrous metals, n.e.c.",2429
+Casting of iron and steel,2431
+Casting of non-ferrous metals,2432
+Manufacture of structural metal products,2511
+"Manufacture of tanks, reservoirs and containers of metal",2512
+"Manufacture of steam generators, except central heating hot water boilers",2513
+Manufacture of weapons and ammunition,2520
+"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",2591
+Treatment and coating of metals; machining,2592
+"Manufacture of cutlery, hand tools and general hardware",2593
+"Manufacture of other fabricated metal products, n.e.c.",2599
+Manufacture of electronic valves and tubes,2611
+Manufacture of semi-conductor  devices and other electronic components,2612
+Manufacture of computers and peripheral equipment and accessories,2620
+Manufacture of communication equipment,2630
+Manufacture of consumer electronics,2640
+"Manufacture of measuring, testing, navigating and control equipment",2651
+Manufacture of watches and clocks,2652
+"Manufacture of irradiation, electromedical and electrotherapeutic equipment",2660
+Manufacture of optical instruments and photographic equipment,2670
+Manufacture of magnetic and optical media,2680
+"Manufacture of electric motors, generators, transformers and electric generating sets",2711
+Manufacture of electricity distribution and control apparatus,2712
+Manufacture of batteries and accumulators,2720
+Manufacture of fiber optic cables,2731
+Manufacture of other electronic and electric wires and cables,2732
+Manufacture of wiring devices,2733
+Manufacture of electric lighting equipment,2740
+Manufacture of domestic appliances,2750
+Manufacture of other electrical equipment,2790
+"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",2811
+Manufacture of fluid power equipment,2812
+"Manufacture of other pumps, compressors, taps and valves",2813
+"Manufacture of bearings, gears and driving elements",2814
+"Manufacture of ovens, furnaces and furnace burners",2815
+Manufacture of lifting and handling equipment,2816
+Manufacture of office machinery and equipment (except computers and peripheral equipment),2817
+Manufacture of power-driven hand tools,2818
+Manufacture of other general-purpose machinery,2819
+Manufacture of agricultural and forestry machinery,2821
+Manufacture of metal-forming machinery and machine tools,2822
+Manufacture of machinery for metallurgy,2823
+"Manufacture of machinery for mining, quarrying and construction",2824
+Manufacture of machinery for food beverage and tobacco processing,2825
+"Manufacture of machinery for textile, apparel and leather production",2826
+Manufacture of other special-purpose machinery,2829
+Manufacture of motor vehicles,2910
+Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,2920
+Manufacture of parts and accessories for motor vehicles,2930
+Building of ships and floating structures,3011
+Building of pleasure and sporting boats,3012
+Manufacture of railway locomotive and rolling stock,3020
+Manufacture of air and spacecraft and related machinery,3030
+Manufacture of military fighting vehicles,3040
+Manufacture of motorcycles,3091
+Manufacture of bicycles and invalid carriages,3092
+"Manufacture of other transport equipment, n.e.c",3099
+Manufacture of wood furniture,3101
+"Manufacture of rattan furniture (reed, wicker, and cane)",3102
+Manufacture of box beds and mattresses,3103
+"Manufacture of partitions, shelves, lockers and office and store fixtures",3104
+Manufacture of plastic furniture,3105
+Manufacture of furniture and fixtures of metal,3106
+"Manufacture of other furniture and fixtures, n.e.c.",3109
+Manufacture of jewelry and related articles,3211
+Manufacture of imitation of jewelry and related articles,3212
+Manufacture of musical instruments,3220
+Manufacture of sports goods,3230
+Manufacture of games and toys,3240
+Manufacture of medical and dental instruments and supplies,3250
+Manufacture of pens and pencils of all kinds,3291
+"Manufacture of umbrellas, walking sticks, canes, whips and riding crops",3292
+"Manufacture of articles for personal use, e.g. smoking pipes, combs, slides and similar articles",3293
+Manufacture of candles,3294
+"Manufacture of artificial flowers, fruits and foliage",3295
+Manufacture of burial coffin,3296
+"Manufacture of other miscellaneous articles, n.e.c.",3299
+Repair of fabricated metal products,3311
+Repair of machinery,3312
+Repair of electronic and optical equipment,3313
+Repair of electrical equipment,3314
+"Repair of transport equipment, except motor vehicles",3315
+Repair of other equipment,3319
+Installation of industrial machinery and equipment,3320
+"Electric power generation, transmission and distribution",3510
+Manufacture of gas; distribution of gaseous fuels through mains,3520
+"Steam, air conditioning supply and production of ice",3530
+"Water collection, treatment and supply",3600
+Sewerage,3700
+Collection of non-hazardous waste,3811
+Collection of hazardous waste,3812
+Treatment and disposal of non-hazardous waste,3821
+Treatment and disposal of hazardous waste,3822
+Materials recovery,3830
+Remediation activities and other waste management services,3900
+Construction of buildings,4100
+Construction of roads and railways,4210
+Construction of utility projects,4220
+Construction of telecommunication lines and pipelines,4220
+Water main and line construction,4220
+Construction of gas and energy pipelines,4220
+Construction of electric power lines,4220
+"Other construction of utility projects, n.e.c.",4220
+Construction of other civil engineering projects,4290
+Demolition,4311
+Site preparation,4312
+Electrical installation,4321
+"Plumbing, heat and air-conditioning installation",4322
+Other construction installation,4329
+Building completion and finishing,4330
+Other specialized construction activities,4390
+Sale of motor vehicles,4510
+Maintenance and repair of motor vehicles,4520
+Sale of motor vehicle parts and accessories,4530
+"Sale, maintenance and repair of motorcycles and related parts and accessories",4540
+Wholesale on a fee or contract basis,4610
+Wholesale of agricultural raw materials and live animals,4620
+"Wholesale of food, beverages and tobacco",4630
+"Wholesale of textiles, clothing and footwear",4641
+Wholesale of miscellaneous consumer goods,4642
+Wholesale of other household goods,4649
+"Wholesale of computers, computer peripheral equipment and software",4651
+Wholesale of electronic and telecommunications equipment and parts,4652
+"Wholesale of agricultural machinery, equipment and supplies",4653
+Wholesale of other machinery and equipment,4659
+"Wholesale of solid, liquid and gaseous fuels and related products",4661
+Wholesale of metals and metal ores,4662
+"Wholesale of construction materials, hardware, plumbing and heating equipment and supplies",4663
+"Wholesale of waste and scrap and other products, n.e.c.",4669
+Non-specialized wholesale trade,4690
+"Retail sale in non-specialized stores with food, beverages or tobacco predominating",4711
+Other retail sale in non-specialized stores,4719
+Retail sale of food in specialized stores,4721
+Retail sale of beverages in specialized stores,4722
+Retail sale of tobacco products in specialized stores,4723
+Retail sale of automotive fuel in specialized stores,4730
+"Retail sale of computers, peripheral units, software and telecommunications equipment in specialized stores",4741
+Retail sale of audio and video equipment in specialized stores,4742
+Retail sale of textiles in specialized stores,4751
+"Retail sale of hardware, paints and glass in specialized stores",4752
+"Retail sale of carpets, rugs, wall and floor coverings in specialized stores",4753
+"Retail sale of electrical household appliances, furniture, lighting equipment and other household articles in specialized stores",4759
+"Retail sale of books, newspapers and stationery in specialized stores",4761
+Retail sale of music and video recordings in specialized stores,4762
+Retail sale of sporting equipment in specialized stores,4763
+Retail sale of games and toys in specialized stores,4764
+"Retail sale of clothing, footwear and leather articles in specialized stores",4771
+"Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles in specialized stores",4772
+Other retail sale of new goods in specialized stores,4773
+Retail sale of second-hand goods,4774
+Retail sale of liquefied petroleum gas and other fuel products,4775
+Retail sale of pet and pet supplies (Pet shop),4776
+"Retail sale via stalls and markets of food, beverages and tobacco products",4781
+"Retail sale via stalls and markets of textiles, clothing and footwear",4782
+Retail sale via stalls and markets of other goods,4789
+Retail sale via mail/telephone order houses or via internet,4791
+"Other retail sale not in stores, stalls or markets",4799
+"Passenger rail transport, inter-urban",4911
+Freight rail transport,4912
+Transport via buses,4920
+"Urban or suburban passenger land transport, except railway or bus",4931
+Other passenger land transport,4932
+Freight transport by road,4933
+Transport via pipeline,4940
+Sea and coastal passenger water transport,5011
+Sea and coastal freight water transport,5012
+Inland passenger water transport,5021
+Inland freight water transport,5022
+Passenger air transport,5110
+Freight air transport,5120
+Warehousing and storage,5210
+Service activities incidental to land transportation,5221
+Service activities incidental to water transportation,5222
+Service activities incidental to air transportation,5223
+Cargo handling,5224
+Other transportation support activities,5229
+Postal activities,5310
+Courier activities,5320
+Short term accommodation activities,5510
+Other accommodation,5590
+Restaurants and mobile food service activities,5610
+Event catering,5621
+Other food service activities,5629
+Beverage serving activities,5630
+Book Publishing,5811
+Publishing of directories and mailing lists,5812
+"Publishing of newspapers, journals and periodicals",5813
+Other publishing activities,5819
+Software publishing,5820
+"Motion picture, video and television programme production activities",5911
+"Motion picture, video and television programme post-production activities",5912
+"Motion picture, video and television programme distribution activities",5913
+Motion picture projection activities,5914
+Sound recording and music publishing activities,5920
+Radio broadcasting,6010
+Television programming and broadcasting activities,6020
+Wired telecommunications activities,6110
+Wireless telecommunications activities,6120
+Satellite telecommunications activities,6130
+Other telecommunications activities,6190
+Computer programming activities,6201
+Computer consultancy and computer facilities management activities,6202
+Other information technology and computer service activities,6209
+"Data processing, hosting and related activities",6311
+Web portals,6312
+News agency activities,6391
+"Other information service activities, n.e.c.",6399
+Central banking,6411
+Other monetary intermediation,6419
+Activities of holding companies,6420
+"Trusts, funds and other financial vehicles",6430
+Financial leasing,6491
+Other credit granting,6492
+Pawnshop operations,6493
+"Other financial service activities, except insurance and pension funding activities, n.e.c.",6499
+Life insurance,6511
+Non-life insurance,6512
+Reinsurance,6520
+Pension funding,6530
+Administration of financial markets,6611
+Security and commodity contracts brokerage,6612
+Other activities auxiliary to financial service activities,6619
+Risk and damage evaluation,6621
+Activities of insurance agents and brokers,6622
+Pre-need plan activities,6623
+Other activities auxiliary to insurance and pension funding,6629
+Fund management activities,6630
+"Real estate buying, selling, renting, leasing and operating of self-owned/leased apartment buildings, non-residential and dwellings",6811
+"Real estate buying, developing, subdividing and selling,  of residential including mass housing",6812
+"Cemetery and columbarium development, selling, renting, leasing and operating of self-owned cemetery/columbarium (including burial crypt)",6813
+Renting or leasing services of residential properties,6814
+Other real estate activities with own or leased property,6819
+Real estate activities on a fee or contract basis,6820
+Legal activities,6910
+"Accounting, bookkeeping and auditing activities; tax consultancy",6920
+Activities of head offices,7010
+Management consultancy activities,7020
+Architectural and engineering activities and related technical consultancy,7110
+Technical testing and analysis,7120
+Research and experimental development on natural sciences and engineering,7210
+Research and experimental development on social sciences and humanities,7220
+Research and experimental development in information technology,7230
+Advertising,7310
+Market research and public opinion polling,7320
+Specialized design activities,7410
+Photographic activities,7420
+"Other professional, scientific and technical activities, n.e.c.",7490
+Veterinary activities,7500
+"Renting and leasing of motor vehicles (except motorcycle, caravans, campers)",7710
+Renting and leasing of recreational and sports goods,7721
+Renting of video tapes and disks,7722
+Renting and leasing of other personal and household goods,7729
+"Renting and leasing of other machinery, equipment and tangible goods",7730
+"Leasing of intellectual property and similar products, except copyrighted works",7740
+Activities of employment placement agencies,7810
+Temporary employment agency activities,7820
+Other human resources provision,7830
+Travel agency activities,7911
+Tour operator activities,7912
+Other reservation service and related activities,7990
+Private security activities,8010
+Security systems service activities,8020
+Investigation activities,8030
+Combined facilities support activities,8110
+General cleaning of buildings,8121
+Other building and industrial cleaning activities,8129
+Landscape care and maintenance service activities,8130
+Combined office administrative service activities,8211
+"Photocopying, document preparation and other specialized office support activities",8219
+Call centers activities (Voice),8221
+Back-office operations activities (Non-voice),8222
+Other non-voice related activities,8229
+Organization of conventions and trade shows,8230
+Activities of collection agencies and credit bureaus,8291
+Packaging activities,8292
+"Other business support service activities, n.e.c.",8299
+General public administration activities,8411
+"Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security",8412
+Regulation of and contribution to more efficient operation of businesses,8413
+Foreign affairs,8421
+Defense activities,8422
+Public order and safety activities,8423
+Compulsory social security activities,8430
+Pre-primary/pre-school education (for children without special needs),8511
+Pre-primary education for children with special needs,8512
+Primary/elementary  education (for children without special needs),8521
+Primary/elementary education for children with special needs,8522
+General secondary education for children without special needs,8531
+General secondary education for children with special needs,8532
+Technical and vocational secondary education for children without special needs,8533
+Technical and vocational secondary education for children with special needs,8534
+Higher education,8540
+Sports and recreation education,8551
+Cultural education,8552
+Other education,8559
+Educational support services,8560
+"Public hospitals, sanitaria and other similar activities",8611
+"Private hospitals, sanitaria and other similar activities",8612
+"Public medical, dental and other health activities",8621
+"Private medical, dental and other health activities",8622
+Other human health activities,8690
+Residential nursing care facilities,8710
+"Residential care activities for mental retardation, mental health and substance abuse",8720
+Residential care activities for the elderly and disabled,8730
+"Other residential care activities, n.e.c.",8790
+Social work activities without accommodation for the elderly and disabled,8810
+"Other social work activities without accommodation, n.e.c.",8890
+"Creative, arts and entertainment activities",9000
+Library and archives activities,9101
+Museums activities and operation of historical sites and buildings,9102
+Botanical and zoological gardens and nature reserves activities,9103
+Gambling and betting activities,9200
+Operation of sports facilities,9311
+Activities of sports clubs,9312
+Other sports activities,9319
+Activities of amusement parks and theme parks,9321
+"Other amusement and recreation activities, n.e.c.",9329
+Activities of business and employers membership organizations,9411
+Activities of professional membership organizations,9412
+Activities of trade unions,9420
+Activities of religious organizations,9491
+Activities of political organizations,9492
+"Activities of other membership organizations, n.e.c.",9499
+Repair of computers and peripheral equipment,9511
+Repair of communications equipment,9512
+Repair of consumer electronics,9521
+Repair of household appliances and home and garden equipment,9522
+Repair of footwear and leather goods,9523
+Repair of furniture and home furnishings,9524
+Repair of other personal and household goods,9529
+"Personal services for wellness, except sports activities",9610
+Washing and dry cleaning of textile and fur products,9621
+Funeral and related activities,9630
+Domestic services,9640
+"Other personal service activities, n.e.c.",9690
+Activities of households as employers of domestic personnel,9700
+Undifferentiated goods-producing activities of private households for own use,9810
+Undifferentiated services-producing activities of private households for own use,9820
+Activities of extra-territorial organizations and bodies,9901
+Activities of other international organizations,9909
