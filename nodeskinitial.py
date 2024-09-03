@@ -2,20 +2,33 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-# Replace this URL with the actual URL of the webpage you want to scrape
-url = 'https://psa.gov.ph/classification/psic/class'
+# Prompt user for the website URL
+url = input("Enter the URL of the webpage you want to scrape: ")
 
 # Send a request to the webpage
 response = requests.get(url)
 
+# Check if the request was successful
+if response.status_code != 200:
+    print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
+    exit()
+
 # Parse the HTML content
 soup = BeautifulSoup(response.content, 'html.parser')
 
-# Find the table by its id
+# Find the table by its id (assuming the id is known and remains the same)
 table = soup.find('table', id='psicdata')
 
+# Check if the table was found
+if not table:
+    print("Table with id 'psicdata' not found.")
+    exit()
+
+# Prompt user for the filename to save the data
+filename = input("Enter the filename to save the scraped data (with .csv extension): ")
+
 # Open a new CSV file in write mode
-with open('scraped_table.csv', 'w', newline='', encoding='utf-8') as csvfile:
+with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
     
     # Write the header row
@@ -35,4 +48,4 @@ with open('scraped_table.csv', 'w', newline='', encoding='utf-8') as csvfile:
         # Write the title and group code to the CSV file
         writer.writerow([title, group_code])
 
-print("Data has been successfully saved to scraped_table.csv")
+print(f"Data has been successfully saved to {filename}")
